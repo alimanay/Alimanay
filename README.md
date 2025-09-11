@@ -23,7 +23,7 @@ I also have customer service experience, which improved my communication and pro
   
   <!-- Desktop Development -->
   <img src="https://img.shields.io/badge/WPF-512BD4?style=for-the-badge&logo=windows&logoColor=white" title="WPF"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows/windows-original.svg" title="WinForms" width="50" height="50"/>
+  <img src="https://img.shields.io/badge/WinForms-0078D7?style=for-the-badge&logo=windows&logoColor=white" title="WinForms"/>
   
   <!-- Web & Frontend -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" width="50" height="50"/>
