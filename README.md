@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **alimanayhs@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1GOmh2hkACSJ6AaiAt6hLOb6PD3eBobYO/view?usp=sharing](https://drive.google.com/file/d/1GOmh2hkACSJ6AaiAt6hLOb6PD3eBobYO/view?usp=sharing)
+- 📄 Know about my experiences [Özgeçmişimi Görüntüle](https://drive.google.com/file/d/1kNnNB7ODrgYcXLM3e8qRJV88fz2hMQr5/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
