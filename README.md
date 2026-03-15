@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ali Manay</h1>
-<h3 align="center">Software Developer passionate about .NET, Computer Vision and Backend Development</h3>
+<h3 align="center">Software Developer passionate about .NET, C# and Scalable Backend Development</h3>
 
 - Library Management System with ASP.NET Core [LibraryManagementSystem](https://github.com/alimanay/LibraryManagementSystem)
 
